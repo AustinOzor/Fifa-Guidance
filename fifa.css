@@ -1,0 +1,242 @@
+.navbar {
+    height:170px;
+    color: white;
+}
+.navbar-img{
+    display: flex;
+}
+.navbar li a{
+    color: white;
+    font-weight: bold;
+    font-size: 16pt;
+    line-height: 4;
+}
+.banner{
+    background-color: #26619c;
+    height: 200px;
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    padding: 25px 0;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    ;
+}
+.img-icon {
+    padding-top: 2rem;
+}
+#msg {
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    padding-top: 2rem;
+}
+.msg2{
+    background-color: rgb(64, 151, 64);
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    padding: 30px 0;
+}
+.msg3{
+    color: black;
+}
+.why {
+    text-align: center;
+    color:  #26619c;
+    font-size: 5rem;
+    font-weight: bolder;
+    padding: 30px 0;
+}
+.msg4{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 20px 0;
+} 
+.lp{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    padding-bottom: 20px;
+    
+}
+.container {
+    background-color:rgb(248, 240, 229) ;
+}
+.icons {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+h3{
+    color: #1d5fa1;
+    font-weight: bold;
+}
+.line{
+    background-color: #26619c;
+    width: 100rem;
+    height: 0.2rem;
+}
+.learner{
+    background-color:  rgb(64, 151, 64);
+   
+}
+.lps {
+
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    padding: 25px 0;
+}
+.lpss {
+
+    color: white;
+    font-size: 2rem;
+    padding: 25px 40px;
+    
+}
+#fifalearner{
+    padding-top: 25px;
+}
+.fifall  {
+    background-color: #2673c0;    
+    width: 400px;
+    height: 60px;
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    line-height: 2;
+    margin-bottom: 35px;
+
+}
+ .fifal:hover{
+    background-color: rgb(173, 28, 28);
+}
+.Fglobal {
+    background-color: #fa554a;
+    padding-top: 45px;
+}
+.lps1{
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 25px;
+    float: left;
+}
+.lpa{
+    color: white;
+    font-size: 20px;
+    padding: ;
+    float: left;
+}
+#fg{
+    padding-bottom: 20px;
+}
+#lpa {
+    background-color: #2673c0;    
+    width: 700px;
+    height: 60px;
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    line-height: 2;
+    float: left;
+    margin-top: 20px;
+}
+#lpa:hover{
+    background-color: rgb(173, 28, 28);
+}
+.last{
+    background-color: orange;
+    color: white;
+    padding-left: 45px;
+ 
+}
+#gl{
+    padding: 35px 0;
+    float: left;
+    
+}
+.fifalas{
+         background-color: #2673c0;    
+        width: 400px;
+        height: 60px;
+        color: white;
+        font-weight: bold;
+        font-size: xx-large;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 10px;
+        line-height: 2;
+       
+}
+.footer{
+    background-color: #26619c;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.img-container{
+  
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+    padding: 40px;
+    
+}
+.sociallinks {
+    
+      
+    
+        margin-top:5px;
+        border-radius: 5px;
+        text-align: center;
+    }
+.flf{
+    padding-right: 45px;
+}
+.flf1{
+    padding-left: 45px;
+}
+hr {
+    border-top: solid white dotted;
+
+}
+.footer a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.foota {
+    display: flex;
+    justify-content: center;
+    
+    padding:25px 0 65px 0;
+}
+.pp{
+    border-right: 3px solid white;
+    padding: 0 2rem;
+}
+.ac {
+    border-right: 3px solid white;
+    padding: 0 2rem;
+}
+.tu {
+    padding: 0 2rem;
+}
