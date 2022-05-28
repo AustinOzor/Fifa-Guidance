@@ -20,10 +20,15 @@
     font-weight: bolder;
     padding: 25px 0;
 }
+.button-lang{
+    display: grid;
+}
 .but{
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     justify-content: center;
-    ;
+    margin: 1.5rem 10rem;
+    font-weight: bolder;
 }
 .img-icon {
     padding-top: 2rem;
